@@ -16,5 +16,9 @@
 
 #### Live Demo
 ```
-https://app-31ec3956-ff83-42a0-9b99-e67b524530ed.cleverapps.io/recruiter/dashboard
+https://app-31ec3956-ff83-42a0-9b99-e67b524530ed.cleverapps.io/recruiter/login
 ```
+
+### Credentials to login
+- username: ```umar```
+- password: ```12345```
